@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+venv/
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Data & DB
+*.csv
+*.parquet
+*.jsonl
+*.db
+*.sqlite
+target/
+dbt_modules/
+dbt_packages/
+
+# Terraform & Cloud
+.terraform/
+*.tfstate*
+*.pem
