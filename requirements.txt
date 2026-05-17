@@ -1,0 +1,12 @@
+# 🏗️ Dependências da Pós-Graduação em Engenharia de Dados & IA
+# Módulo: Fundamentos de Dados com Python
+
+# Ingestão, Validação e Schemas (Data Quality)
+pydantic>=2.5.0
+
+# Ferramentas de Testes Automatizados
+pytest>=7.4.0
+
+# Processamento e Manipulação de DataFrames
+pandas>=2.0.0
+polars>=0.20.0
